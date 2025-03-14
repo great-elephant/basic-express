@@ -1,5 +1,5 @@
 # Use an official Node.js runtime as a parent image
-FROM node:18.20.3-alpine
+FROM 886473596958.dkr.ecr.us-west-2.amazonaws.com/node:18.20.3-alpine
 # Set the working directory in the container
 WORKDIR /app
 
